@@ -25,11 +25,6 @@ function agregarLista(e){
     
 
     
-
-//lista=carrito    agregarlista=agregarcarrito  
-//apuestahecha= producto    resultado=nombreproducto
-//agregarALista= mostrarCarrito
-
     lista.push(apuestaHecha );
     
 
